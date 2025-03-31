@@ -1,0 +1,11 @@
+.app-menu, .editor-toolbar {
+    padding: 10px;
+    background: #f0f0f0;
+    display: flex;
+    gap: 8px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    cursor: pointer;
+  }
